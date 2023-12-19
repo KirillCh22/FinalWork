@@ -1,0 +1,15 @@
+E:\Учеба в GeekBrains\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.exe
+E:\Учеба в GeekBrains\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.deps.json
+E:\Учеба в GeekBrains\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.runtimeconfig.json
+E:\Учеба в GeekBrains\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.dll
+E:\Учеба в GeekBrains\FinalWork\FinalWork\bin\Debug\net6.0\FinalWork.pdb
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.csproj.AssemblyReference.cache
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfoInputs.cache
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfo.cs
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.csproj.CoreCompileInputs.cache
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.dll
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\refint\FinalWork.dll
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.pdb
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\FinalWork.genruntimeconfig.cache
+E:\Учеба в GeekBrains\FinalWork\FinalWork\obj\Debug\net6.0\ref\FinalWork.dll
