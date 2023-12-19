@@ -1,5 +1,6 @@
 ﻿void CountingChars(string[] array, int length)
 {
+    Console.Write("New Array - [");
     for (int i = 0; i < length; i++)
     {
         string str_Val = array[i];
@@ -8,6 +9,7 @@
             Console.Write( str_Val + ", ");
         }
     }
+    Console.Write("]");
 }
 
 
